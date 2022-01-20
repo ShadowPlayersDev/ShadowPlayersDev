@@ -1,0 +1,27 @@
+
+/* MENU */
+nav{
+    background: #6a0b37;
+    height: 95px;
+    width: 100%;
+}
+nav .title{
+    color: white;
+    display: flex;
+    font-size: 35px;
+    padding: 0 20px;
+    align-items: center;
+}
+nav .title img {
+    height: 80px;
+    margin: 5px 5px;
+}
+@media(max-width:400px) {
+    nav .title {
+        font-size: 25px;
+        padding: 0 5px;
+    }
+    nav .title img {
+        height: 65px;
+    }
+}
