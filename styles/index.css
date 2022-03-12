@@ -202,6 +202,14 @@ p {
       justify-content: center;
     }
 }
+@media(max-width:500px) {
+    .projects .project-title{
+        font-size: 25px;
+    }
+    .projects .project-description {
+        font-size: 18px;
+    }
+}
 
 /* LÍNEA DE TIEMPO */
 .timeline {
