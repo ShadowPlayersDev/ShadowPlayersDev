@@ -317,3 +317,11 @@ p {
         left: 0%;
     }
 }
+@media(max-width:500px) {
+    .timeline .contenido h2{
+        font-size: 15px;
+    }
+    .timeline .contenido p {
+        font-size: 20px;
+    }
+}
