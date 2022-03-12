@@ -28,3 +28,12 @@
     margin: 10px;
     color: #6a0b37;
 }
+
+@media(max-width:500px) {
+    .social .title {
+        font-size: 30px;
+    }
+    .social .list a {
+        font-size: 20px;
+    }
+}
