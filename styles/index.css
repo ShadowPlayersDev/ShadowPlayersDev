@@ -31,6 +31,8 @@ p {
     display: flex;
     font-size: 20px;
     margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
     padding: 10px 15px 20px 10px;
     background-color: #494646;
     color: #ffffff;
@@ -43,6 +45,7 @@ p {
     width: 95%;
     font-size: 20px;
     margin: auto;
+    margin-bottom: 5px;
     background-color: #c9c9c9;
     color: #000000;
     border: 4px solid #6a0b37;
@@ -112,6 +115,7 @@ p {
     width: 95%;
     font-size: 20px;
     margin: auto;
+    margin-bottom: 5px;
     background-color: #c9c9c9;
     color: #000000;
     border: 4px solid #6a0b37;
@@ -203,6 +207,7 @@ p {
 .timeline {
     width: 95%;
     margin: auto;
+    margin-bottom: 5px;
     background-color: #c9c9c9;
     color: #000000;
     border: 4px solid #6a0b37;
