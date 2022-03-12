@@ -21,8 +21,8 @@ footer p {
     margin: 0 5px;
 }
 
-@media(max-width:425px) {
+@media(max-width:500px) {
     footer {
-        height: 50px;
+        font-size: 15px;
     }
 }
